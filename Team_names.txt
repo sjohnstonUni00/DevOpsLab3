@@ -1,2 +1,9 @@
+First Line creating a git merge conflic
 Daniel
+
 Test2
+
+
+
+Im editing here without you knowing 
+
