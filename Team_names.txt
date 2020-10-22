@@ -1,0 +1,1 @@
+First Line creating a git merge conflic
